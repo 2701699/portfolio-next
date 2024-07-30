@@ -10,7 +10,9 @@ Clerk
 ## Note
 Backend implementation and using stateless authentification with Jwt and cookies was dropped, i used Clerk instead.
 
-## Go
+## Screenshots
+![image](https://github.com/user-attachments/assets/b464df28-4a7a-4d8e-9d52-f3c6938af0cd)
+
 ![image](https://github.com/user-attachments/assets/dd5300ee-6ef5-4c51-975b-c1cd8dce54b9)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
