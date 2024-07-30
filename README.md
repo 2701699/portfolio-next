@@ -1,4 +1,17 @@
-<<<<<<< HEAD
+## Portfolio
+This is a portfolio made as a project for my front end project of advanced web module.
+
+
+## Libraries and frameworks
+Next JS
+Tailwind
+Clerk
+
+## Note
+Backend implementation and using stateless authentification with Jwt and cookies was dropped, i used Clerk instead.
+
+## Go
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
