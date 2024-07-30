@@ -1,0 +1,123 @@
+/* Style général */
+.home {
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(to right, #ece9e6, #ffffff);
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style pour l'image de profil */
+.home img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 5px solid #0073e6;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Style pour le titre principal */
+.home h1 {
+  font-size: 2.5rem;
+  margin: 1rem 0;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style pour le sous-titre */
+.home p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 2rem;
+}
+
+/* Style pour les sections */
+.section {
+  margin: 2rem 0;
+  padding: 2rem;
+  background-color: black; /* Changed to black background */
+  color: yellow; /* Changed text color to yellow */
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Style pour les titres de section */
+.section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #0073e6;
+  border-bottom: 2px solid #0073e6;
+  display: inline-block;
+}
+
+/* Style pour les listes */
+.section ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+  color: yellow; /* Changed list item text color to yellow */
+}
+
+.section ul li {
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.section ul li::before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  color: #0073e6;
+  font-size: 1.2rem;
+}
+
+/* Style pour les expériences */
+.experience {
+  margin-bottom: 2rem;
+}
+
+.experience h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #e00c0c;
+}
+
+.experience p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.experience ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+/* Style pour les projets */
+.project {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.project h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: red;
+}
+
+.project p {
+  font-size: 1rem;
+  color: yellow;
+}
+
+/* Style pour les certifications */
+.section ul li {
+  margin-bottom: 0.5rem;
+}
+
+
+.imageStyle{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

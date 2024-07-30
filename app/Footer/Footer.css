@@ -1,0 +1,16 @@
+footer {
+    background-color: #968a3a8a;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: solid;
+  }
+  
+  footer a {
+    color: rgb(180, 22, 22);
+    text-decoration: none;
+    margin: 0 10px;
+    text-decoration: solid;
+    text-transform: uppercase;
+  }
+  

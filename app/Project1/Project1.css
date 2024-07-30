@@ -1,0 +1,50 @@
+.project-page {
+    padding: 2rem;
+    text-align: left;
+  }
+  
+  .project-page h1 {
+    text-align: center;
+    color: #0073e6;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
+  .project-content {
+    background: #8d7dcf;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section {
+    margin-bottom: 2rem;
+  
+  }
+  
+  a {
+     font-weight: bold;
+  }
+
+  .section h2 {
+    color: #0073e6;
+    border-bottom: 2px solid #0073e6;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
+  
+  .screenshots {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .screenshots img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .imgProjet1 {
+    width: 30rem;
+  }
